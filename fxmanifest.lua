@@ -1,4 +1,4 @@
-author "Breezy#0001"
+author "Syrion"
 description "Safezones for FiveM"
 version "1.0"
 
